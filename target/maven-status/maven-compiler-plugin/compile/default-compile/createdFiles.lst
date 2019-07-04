@@ -1,0 +1,11 @@
+com\yxnh\o2o\entity\Area.class
+com\yxnh\o2o\entity\ShopCategory.class
+com\yxnh\o2o\entity\PersonInfo.class
+com\yxnh\o2o\entity\LocalAuth.class
+com\yxnh\o2o\dao\AreaDao.class
+com\yxnh\o2o\entity\ProductImg.class
+com\yxnh\o2o\entity\ProductCategory.class
+com\yxnh\o2o\entity\Product.class
+com\yxnh\o2o\entity\HeadLine.class
+com\yxnh\o2o\entity\Shop.class
+com\yxnh\o2o\entity\WechatAuth.class

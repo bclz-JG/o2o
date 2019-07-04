@@ -9,6 +9,10 @@ public class Area {
 	private String areaName;
 	// 权重
 	private Integer priority;
+	// 创建时间
+	private Date createTime;
+	// 更新时间
+	private Date lastEditTime;
 
 	public Integer getAreaId() {
 		return areaId;
@@ -50,8 +54,4 @@ public class Area {
 		this.lastEditTime = lastEditTime;
 	}
 
-	// 创建时间
-	private Date createTime;
-	// 更新时间
-	private Date lastEditTime;
 }
